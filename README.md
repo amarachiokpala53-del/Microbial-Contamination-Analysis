@@ -1,6 +1,22 @@
 ## Microbial-Contamination-Analysis
+## .Excel . Power bi
 End-to-end analysis of microbial contamination in kitchen surfaces, from laboratory sample processing to interactive dashboard visualization.
 
+## 📚 Table of Contents
+
+- [📊 Project Overview](#-project-overview)
+- [🛠️ Tools & Technologies](#-tools--technologies)
+- [🧪 Dataset Description](#-dataset-description)
+- [🔄 Data Cleaning Process](#-data-cleaning-process-excel)
+- [🧾 Sample Overview](#-sample-overview)
+- [📈 Dashboard Features](#-dashboard-features-power-bi)
+- [🔍 Key Insights](#-key-insights)
+- [📸 Dashboard Overview](#-dashboard-overview)
+- [💡 Recommendations](#-recommendations)
+- [📌 Project Type](#-project-type)
+- [🙌 Author](#-author)
+- [📂 Data Source](#-data-source)
+  
 📊 #Project Overview
 Kitchen Surface Microbial and Resistance Analysis is a project that explores microbial contamination across different kitchen surfaces and examines antibiotic resistance patterns of isolated organisms.
 This project was carried out end-to-end, starting from:
@@ -77,3 +93,14 @@ Implement stricter hygiene protocols in areas with consistently high CFU levels
 Monitor and regulate antibiotic usage to reduce resistance development
 Encourage routine microbial surveillance in shared kitchen environments
 Improve cleaning methods (not just frequency) to ensure effective microbial reduction
+
+## 📂 Data Source
+
+This dataset was generated from laboratory analysis conducted as part of a microbiology research project.  
+All samples were collected, processed, and analyzed by the author.
+
+## 🙌 Author
+
+**Okpala Joy Amarachi**  
+- GitHub:  https://github.com/amarachiokpala53-del
+- LinkedIn: https://www.linkedin.com/in/amarachi-joy-38517b388?utm_source=share_via&utm_content=profile&utm_medium=member_android
