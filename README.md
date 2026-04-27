@@ -16,6 +16,7 @@ End-to-end analysis of microbial contamination in kitchen surfaces, from laborat
 - [📌 Project Type](#-project-type)
 - [🙌 Author](#-author)
 - [📂 Data Source](#-data-source)
+- [Dataset](#-dataset)
   
 ## 📊 Project Overview
 Kitchen Surface Microbial and Resistance Analysis is a project that explores microbial contamination across different kitchen surfaces and examines antibiotic resistance patterns of isolated organisms.
@@ -103,6 +104,8 @@ Improve cleaning methods (not just frequency) to ensure effective microbial redu
 This dataset was generated from laboratory analysis conducted as part of a microbiology research project.  
 All samples were collected, processed, and analyzed by the author.
 
-https://github.com/amarachiokpala53-del/Microbial-Contamination-Analysis/blob/main/Microbiology%20Data.xlsx
-https://github.com/amarachiokpala53-del/Microbial-Contamination-Analysis/blob/main/Microbiology%20Data.pbix
+## Dataset
+[Download Here](https://github.com/amarachiokpala53-del/Microbial-Contamination-Analysis/blob/main/Microbiology%20Data.xlsx)
+[Download Here](https://github.com/amarachiokpala53-del/Microbial-Contamination-Analysis/blob/main/Microbiology%20Data.pbix)
+
 
